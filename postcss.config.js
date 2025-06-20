@@ -1,3 +1,4 @@
+// postcss.config.js
 export default {
   plugins: {
     '@tailwindcss/postcss': {}, // Updated to use the correct plugin package

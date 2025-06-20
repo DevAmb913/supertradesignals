@@ -6,7 +6,7 @@ import HomePage from './pages/HomePage';   // Import HomePage
 
 function App() {
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="flex flex-col min-h-screen bg-gradient-to-br from-black via-gray-900 to-purple-950 text-white font-sans antialiased">
       <Header />
       <HomePage />
       <Footer />
